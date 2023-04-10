@@ -12,7 +12,7 @@ print("quote")
 
 Here is a [link](https://www.google.com/)
 
-![screenshot](./screenshots/command%20line%20git%20transactions2.PNG)
+[screenshot](./screenshots/command%20line%20git%20transactions2.PNG)
 
 
 list:
